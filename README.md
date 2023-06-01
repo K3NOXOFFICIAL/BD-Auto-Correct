@@ -40,5 +40,5 @@ Please refer to the GitHub issues section for the latest updates on known issues
 
 ## License
 
-This plugin is released under the [MIT License](LICENSE).
+This plugin is released under the [GNU General Public License](LICENSE).
 
